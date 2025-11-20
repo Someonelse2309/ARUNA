@@ -14,7 +14,7 @@ dengan langkah sebagai berikut :
 Kemudian import `SI BPJS.json` sebagai agent baru.
 ![Step3](./images/3.png)
 Tampilan pada Flowise akan menjadi seperti ini.
-perlu disesuaikan alamat tool call yang digunakan oleh flowise dengan runtime yang digunakan.
+perlu disesuaikan alamat tool call yang digunakan oleh flowise dengan runtime yang digunakan. API key yang digunakan untuk melakukan prediction juga perlu disesuaikan pada bagian model yang digunakan oleh agent.
 
 ### 2. Python Backend: <br>
 
